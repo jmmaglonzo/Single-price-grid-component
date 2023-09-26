@@ -15,10 +15,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
-## My process
+- Solution URL: [Github](https://github.com/jmmaglonzo/Single-price-grid-component)
+- Live Site URL: [Github Pages](https://jmmaglonzo.github.io/Single-price-grid-component/)
 
 ### Built with
 
