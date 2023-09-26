@@ -1,0 +1,15 @@
+@media (max-width: 650px) {
+  .grid-container {
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+
+    .box-3 {
+      .text-container {
+        li {
+          font-size: 1.6rem;
+        }
+      }
+    }
+  }
+}

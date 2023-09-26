@@ -1,0 +1,31 @@
+// Primary Colors
+$cyan: hsl(179, 62%, 43%);
+$cyanLight: #4abebd;
+$brightYellow: #c0df34;
+$lightyellow: #adc92f;
+
+// Neutral
+$lightGray: hsl(204, 43%, 93%);
+$grayishBlue: hsl(218, 22%, 67%);
+
+$bgColor: #e6eff6;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-family: "Karla", sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  font-size: 1.6rem;
+  background-color: $bgColor;
+  overflow: hidden;
+}
